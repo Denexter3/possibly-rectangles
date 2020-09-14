@@ -1,5 +1,5 @@
 // I will have you know that I don't have any idea, any idea, what's the point of it.
-// Probably at my future job interviews i will show my interviewer all those projects I made.
+// [REDACTED]
 // Well, it might have no use - but making it sure was fun!
 
 #include <iostream>
